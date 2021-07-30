@@ -1,4 +1,5 @@
 # Learning-materials
+Everything I want to read or learn (or already read/learned). Some of it is here for quick reference. Some are just great and I wanted to share them. 
 
 ## Programming repo's
 
@@ -7,7 +8,8 @@
 
 ## JavaScript
 
-* Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+*  [JS info](https://javascript.info/)
 
 ### Articles and books
 
